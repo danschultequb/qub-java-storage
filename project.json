@@ -1,0 +1,14 @@
+{
+  "publisher": "qub",
+  "project": "qub-java-storage",
+  "version": "0.1.0",
+  "java": {
+    "dependencies": [
+      {
+        "publisher": "qub",
+        "project": "qub-java",
+        "version": "0.2.1"
+      }
+    ]
+  }
+}
