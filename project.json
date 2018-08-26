@@ -3,6 +3,12 @@
   "project": "qub-java-storage",
   "version": "0.1.0",
   "java": {
+    "sources": {
+      "version": "1.7"
+    },
+    "tests": {
+      "version": "1.8"
+    },
     "dependencies": [
       {
         "publisher": "qub",
